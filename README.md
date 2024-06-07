@@ -19,7 +19,7 @@ A-maze-d is an EPITECH project from the CPE-2 unit. laby_gen.pl gives you a text
 
 1. Clone the repository:
     ```
-    git clone https://github.com/EpitechPromo2028/B-CPE-200-LIL-2-1-amazed-yanis.monte.git
+    git clone https://github.com/Martin-Bonte/Amazed.git
     ```
     
 2. Compile the source code using make:
